@@ -58,7 +58,6 @@ geopy==1.11.0
 ggplot==0.11.5
 gmpy2==2.0.8
 greenlet==0.4.12
-guiqwt==3.0.3
 h5py==2.7.0
 HeapDict==1.0.0
 holoviews==1.7.dev8
